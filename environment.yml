@@ -1,0 +1,4 @@
+name: fiber-diffraction
+dependencies: 
+    - numpy
+    - matplotlib
